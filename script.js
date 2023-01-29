@@ -78,35 +78,35 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: '¿Quién fundó la Universidad de Alcalá?',
+    question: '¿pregunta 1?',
     answers: [
       { text: 'Ni idea', correct: true },
       { text: 'Yaqoub', correct: false }
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'pregunta 2?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'respuesta', correct: true },
+      { text: 'respuesta', correct: true },
+      { text: 'respuesta', correct: true },
+      { text: 'respuesta', correct: true }
     ]
   },
   {
-    question: 'Is web development fun?',
+    question: 'pregunta 3?',
     answers: [
-      { text: 'Kinda', correct: false },
-      { text: 'YES!!!', correct: true },
-      { text: 'Um no', correct: false },
-      { text: 'IDK', correct: false }
+      { text: 'respuesta', correct: false },
+      { text: 'respuesta!!!', correct: true },
+      { text: 'respuesta no', correct: false },
+      { text: 'respuesta', correct: false }
     ]
   },
   {
-    question: 'What is 4 * 2?',
+    question: 'pregunta 4?',
     answers: [
-      { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: 'respuesta', correct: false },
+      { text: 'respuesta', correct: true }
     ]
   }
 ]
