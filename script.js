@@ -78,10 +78,10 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 2 + 2?',
+    question: '¿Quién fundó la Universidad de Alcalá?',
     answers: [
-      { text: '4', correct: true },
-      { text: '22', correct: false }
+      { text: 'Ni idea', correct: true },
+      { text: 'Yaqoub', correct: false }
     ]
   },
   {
