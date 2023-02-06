@@ -104,9 +104,9 @@ const questions = [
   {
     question: '¿Qué profeta le comió un pez?',
     answers: [
-      { text: 'Younes (AS)', correct: false },
-      { text: 'Zakaria (AS)', correct: true },
-      { text: 'Yaqoub (AS)', correct: true }
+      { text: 'Younes (AS)', correct: true },
+      { text: 'Zakaria (AS)', correct: false },
+      { text: 'Yaqoub (AS)', correct: false }
     ]
   },
   {
