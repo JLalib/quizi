@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    question: 'Quién son los dos (2) ángeles que enseñaron magia en la época de Sulaiman (AS)?',
+    question: 'Quiénes  son los dos (2) ángeles que enseñaron magia en la época de Sulaiman (AS)?',
     answers: [
       { text: 'Harut y Marut', correct: true },
       { text: 'Harut y Faruq', correct: false },
@@ -164,7 +164,7 @@ const questions = [
     ]
   },
   {
-    question: 'Qué Profeta fue arrojado al Fuego?',
+    question: '¿Qué Profeta fue arrojado al Fuego?',
     answers: [
       { text: 'Ibrahim (AS)', correct: true },
       { text: 'Youssef (AS)', correct: false },
@@ -180,7 +180,7 @@ const questions = [
     ]
   },
   {
-    question: 'Cuál fue la primera (1ª) batalla de los musulmanes?',
+    question: '¿Cuál fue la primera (1ª) batalla de los musulmanes?',
     answers: [
       { text: 'Batalla Badr', correct: true },
       { text: 'Batalla Yaqoub', correct: false },
@@ -366,7 +366,7 @@ const questions = [
     ]
   },
   {
-    question: '¿A qué se le conoce como [Haajj pequeño]',
+    question: '¿A qué se le conoce como [Haajj pequeño]?',
     answers: [
       { text: 'Haajj sin tawaf', correct: false },
       { text: 'Umarh', correct: true }

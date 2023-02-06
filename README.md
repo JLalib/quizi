@@ -1,3 +1,2 @@
-# quizi
-Práctica juego preguntas y respuestas
-¡En desarrollo!
+# QuizI
+Práctica juego preguntas y respuestas sobre temática de "Ciencias del Islam y Corán"
