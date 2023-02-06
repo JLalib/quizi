@@ -84,7 +84,7 @@ const questions = [
       { text: 'Suicidio', correct: false },
       { text: 'Muerte natural', correct: false }
     ]
-  }
+  },
   {
     question: '¿Quién será la esposa del Profeta Mohamed (SWS)?',
     answers: [
@@ -92,7 +92,7 @@ const questions = [
       { text: 'Áicha', correct: true },
       { text: 'Somaia', correct: false }
     ]
-  }
+  },
   {
     question: 'Nombra un milagro del Profeta Isa (AS)',
     answers: [
@@ -100,7 +100,7 @@ const questions = [
       { text: 'Hablar con animales', correct: false },
       { text: 'Predicir el futuro', correct: false }
     ]
-  }
+  },
   {
     question: '¿Qué profeta le comió un pez?',
     answers: [
@@ -108,7 +108,7 @@ const questions = [
       { text: 'Zakaria (AS)', correct: true },
       { text: 'Yaqoub (AS)', correct: true }
     ]
-  }
+  },
   {
     question: 'Nombra un milagro del Profeta Sulaiman (AS)',
     answers: [
@@ -116,14 +116,14 @@ const questions = [
       { text: 'Hablar con animales', correct: true },
       { text: 'Predicir el futuro', correct: false }
     ]
-  }
+  },
   {
     question: '¿Qué profeta murió en el cuarto (4º) cielo?',
     answers: [
       { text: 'Idris (AS)', correct: true },
       { text: 'Younes (AS)', correct: false },
     ]
-  }
+  },
     {
     question: 'Después de los profetas, ¿Quién entrará primero al paraíso?, pista: es un sahabi.',
     answers: [
@@ -131,7 +131,7 @@ const questions = [
       { text: 'Sulaiman', correct: false },
       { text: 'Abu Badr', correct: false }
     ]
-  }
+  },
     {
     question: 'Quién son los dos (2) ángeles que enseñaron magia en la época de Sulaiman (AS)?',
     answers: [
@@ -139,5 +139,5 @@ const questions = [
       { text: 'Harut y Faruq', correct: false },
       { text: 'Faruq y Marut', correct: false }
     ]
-  }
+  },
 ]
