@@ -188,14 +188,6 @@ const questions = [
     ]
   },
   {
-    question: 'Nombra uno de los que estarán bajo la sombra del Rahman en el día del Juicio Final',
-    answers: [
-      { text: 'respuesta', correct: true },
-      { text: 'respuesta', correct: false },
-      { text: 'respuesta', correct: false }
-    ]
-  },
-  {
     question: 'Nombra dos (2) Suart del Corán que empiezen por "AlhamduliLah"',
     answers: [
       { text: 'Al-Fatiha y Al-Kahf', correct: true },
@@ -406,4 +398,102 @@ const questions = [
       { text: 'Surat Al-Rahman', correct: false }
     ]
   },
+  {
+    question: '¿En qué ciudad nació el profeta Muhammad?',
+    answers: [
+      { text: 'Mekkah (Meca)', correct: true },
+      { text: 'Medina', correct: false },
+      { text: 'Jeddah', correct: false }
+    ]
+  },
+  {
+    question: '¿Quiénes son los primeros cuatro califas después de la muerte del profeta Muhammad?',
+    answers: [
+      { text: 'Abu Bakr, Umar, Youssef y Ali', correct: false },
+      { text: 'Abu Bakr, Umar, Uthman y Ali', correct: true }
+    ]
+  },
+  {
+    question: 'La Mezquita "Al-Aqsa" se llama así porque es la mezquita;',
+    answers: [
+      { text: 'Lejana', correct: true },
+      { text: 'Bella', correct: false },
+      { text: 'Sagrada', correct: false }
+    ]
+  },
+  {
+    question: '¿Cuántas oraciones diarias fueron ordenadas incialmente?',
+    answers: [
+      { text: '5', correct: false },
+      { text: '10', correct: false },
+      { text: '25', correct: false },
+      { text: '50', correct: true }
+    ]
+  },
+  {
+    question: '¿Cuántas oraciones diarias fueron ordenadas finalmente?',
+    answers: [
+      { text: '5', correct: true },
+      { text: '6', correct: false },
+      { text: '7', correct: false }
+    ]
+  },
+  {
+    question: '¿Qué profeta aconsejó a Muhammad (SWS) que se redujera el número inicial de las oraciones diarias?',
+    answers: [
+      { text: 'Moussa AS', correct: true },
+      { text: 'Isa AS', correct: false },
+      { text: 'Ibrahim AS', correct: false }
+    ]
+  },
+  {
+    question: '¿Con qué profeta se encontró Muhammad (SWS) en el primer cielo?',
+    answers: [
+      { text: 'Asam AS', correct: true },
+      { text: 'Ibrahim AS', correct: false },
+      { text: 'Isa AS', correct: false }
+    ]
+  },
+  {
+    question: '¿Cómo se llamaba el animal que llevó al Profeta Muhammad SWS desde Mekkah a Jerusalem?',
+    answers: [
+      { text: 'Muwtar', correct: false },
+      { text: 'Buraq', correct: true },
+      { text: 'Qurab', correct: false }
+    ]
+  },
+  {
+    question: '¿Cuál de los siguientes no es un atepasado del profeta Muhammad SWS?',
+    answers: [
+      { text: 'Mudrikah', correct: false },
+      { text: 'Hashim', correct: false },
+      { text: 'Utba', correct: true },
+      { text: 'Qussay', correct: false }
+    ]
+  },
+  {
+    question: '¿Qué sahabiya fue apodada con el nombre de "Al-Batul"?',
+    answers: [
+      { text: 'Fatima Azahra', correct: true },
+      { text: 'Asiha bintu Abu Bakr', correct: false },
+      { text: 'Khadija bintu Khuwaylid', correct: false },
+      { text: 'Umm Salama', correct: false }
+    ]
+  },
+  {
+    question: 'Nombra las 5 primeras Surat del Corán',
+    answers: [
+      { text: 'Al-Fatiha, Al-Baqara, Al-Imran, An-Nissa, Al-Maidah', correct: true },
+      { text: 'Al-Fatiha, Al-Baqara, Al-Nass, Al-Falak, Al-Ikhlass', correct: false },
+      { text: 'Al-Fatiha, Al-Baqara, Al-Imran, An-Nissa, Al-Kahf', correct: false }
+    ]
+  },
+  {
+    question: '¿En qué Surat del Corán es mencionado el profeta Isa AS?',
+    answers: [
+      { text: 'Al-Anbiya, Al Al-Kahf, Al-Baqara', correct: false },
+      { text: 'Al-Baqara, Al-Imran, Maidah', correct: true }
+    ]
+  },
+
 ]
