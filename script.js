@@ -326,14 +326,6 @@ const questions = [
     ]
   },
   {
-    question: '¿Quién fue la primera esposa del Profeta Mohamed (SWS)?',
-    answers: [
-      { text: 'respuesta', correct: true },
-      { text: 'respuesta', correct: false },
-      { text: 'respuesta', correct: false }
-    ]
-  },
-  {
     question: '¿Qué objeto fue creado por Allah?',
     answers: [
       { text: 'Lápiz', correct: true },
