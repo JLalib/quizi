@@ -77,14 +77,6 @@ function clearStatusClass(element) {
 }
 
 const questions = [
-    {
-    question: '¿Cuál fue la causa de la muerte del Profeta Mohamed (SWS)?',
-    answers: [
-      { text: 'Envenenado', correct: true },
-      { text: 'Suicidio', correct: false },
-      { text: 'Muerte natural', correct: false }
-    ]
-  },
   {
     question: '¿Quién será la esposa del Profeta Mohamed (SWS)?',
     answers: [
